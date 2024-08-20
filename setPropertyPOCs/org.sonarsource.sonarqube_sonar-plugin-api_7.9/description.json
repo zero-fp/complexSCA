@@ -1,0 +1,1 @@
+{"package": ["org.sonarsource.sonarqube:sonar-plugin-api:7.9"], "signature": "<org.sonar.api.utils.System2: org.sonar.api.utils.System2 setProperty(java.lang.String,java.lang.String)>", "vulnArg": 0}

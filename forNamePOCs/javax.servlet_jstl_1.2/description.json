@@ -1,0 +1,1 @@
+{"package": ["javax.servlet:jstl:1.2"], "signature": "<org.apache.taglibs.standard.lang.support.ExpressionEvaluatorManager: org.apache.taglibs.standard.lang.support.ExpressionEvaluator getEvaluatorByName(java.lang.String)>", "vulnArg": 0}

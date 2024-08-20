@@ -1,0 +1,1 @@
+{"package": ["org.apache.accumulo:accumulo-core:3.0.0"], "signature": "<org.apache.accumulo.core.conf.ClientProperty: org.apache.accumulo.core.client.security.tokens.AuthenticationToken decodeToken(java.lang.String,java.lang.String)>", "vulnArg": 0}

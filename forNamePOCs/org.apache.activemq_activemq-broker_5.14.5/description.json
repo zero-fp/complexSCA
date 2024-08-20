@@ -1,0 +1,1 @@
+{"package": ["org.apache.activemq:activemq-broker:5.14.5"], "signature": "<org.apache.activemq.security.DefaultAuthorizationMap: java.lang.Object createGroupPrincipal(java.lang.String,java.lang.String)>", "vulnArg": 1}

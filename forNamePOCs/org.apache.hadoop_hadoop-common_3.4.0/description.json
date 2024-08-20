@@ -1,0 +1,1 @@
+{"package": ["org.apache.hadoop:hadoop-common:3.4.0"], "signature": "<org.apache.hadoop.util.DiskValidatorFactory: org.apache.hadoop.util.DiskValidator getInstance(java.lang.String)>", "vulnArg": 0}

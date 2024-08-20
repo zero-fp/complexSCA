@@ -1,0 +1,1 @@
+{"package": ["org.aspectj:aspectjtools:1.9.5"], "signature": "<org.eclipse.core.runtime.spi.RegistryStrategy: java.lang.Object createExecutableExtension(org.eclipse.core.runtime.spi.RegistryContributor,java.lang.String,java.lang.String)>", "vulnArg": 1}

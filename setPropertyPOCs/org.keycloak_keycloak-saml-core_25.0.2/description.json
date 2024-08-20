@@ -1,0 +1,1 @@
+{"package": ["org.keycloak:keycloak-saml-core:25.0.2"], "signature": "<org.keycloak.saml.common.util.SecurityActions: void setSystemProperty(java.lang.String,java.lang.String)>", "vulnArg": 0}

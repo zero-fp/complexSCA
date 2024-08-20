@@ -1,0 +1,1 @@
+{"package": ["cn.hutool:hutool-core:5.8.29"], "signature": "<cn.hutool.core.util.ReflectUtil: java.lang.Object newInstance(java.lang.String)>", "vulnArg": 0}

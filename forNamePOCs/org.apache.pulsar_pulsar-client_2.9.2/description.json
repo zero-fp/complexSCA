@@ -1,0 +1,1 @@
+{"package": ["org.apache.pulsar:pulsar-client:2.9.2"], "signature": "<org.apache.pulsar.client.impl.PulsarClientImplementationBindingImpl: org.apache.pulsar.client.api.Authentication createAuthentication(java.lang.String,java.lang.String)>", "vulnArg": 0}

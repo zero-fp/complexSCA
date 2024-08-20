@@ -1,0 +1,1 @@
+{"package": ["org.apache.groovy:groovy:4.0.4"], "signature": "<org.codehaus.groovy.runtime.InvokerHelper: java.lang.Object invokeConstructorOf(java.lang.String,java.lang.Object)>", "vulnArg": 0}

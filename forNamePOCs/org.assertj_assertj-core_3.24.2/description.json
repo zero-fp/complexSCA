@@ -1,0 +1,1 @@
+{"package": ["org.assertj:assertj-core:3.24.2"], "signature": "<org.assertj.core.error.ConstructorInvoker: java.lang.Object newInstance(java.lang.String,java.lang.Class[],java.lang.Object[])>", "vulnArg": 0}

@@ -1,0 +1,1 @@
+{"package": ["log4j:apache-log4j-extras:1.2.17"], "signature": "<org.apache.log4j.receivers.net.MulticastReceiver: void activateOptions()>", "vulnArg": 0}

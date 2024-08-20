@@ -1,0 +1,1 @@
+{"package": ["org.apache.kylin:kylin-core-common:5.0.0-beta"], "signature": "<org.apache.kylin.common.util.Unsafe: void overwriteSystemProp(java.util.Map,java.lang.String,java.lang.String)>", "vulnArg": 1}

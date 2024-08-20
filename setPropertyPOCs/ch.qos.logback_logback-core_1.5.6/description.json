@@ -1,0 +1,1 @@
+{"package": ["ch.qos.logback:logback-core:1.5.6"], "signature": "<ch.qos.logback.core.util.OptionHelper: void setSystemProperty(ch.qos.logback.core.spi.ContextAware,java.lang.String,java.lang.String)>", "vulnArg": 1}

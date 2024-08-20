@@ -1,0 +1,1 @@
+{"package": ["org.eclipse.dirigible:dirigible-api-facade-core:7.2.0"], "signature": "<org.eclipse.dirigible.api.v3.core.GlobalsFacade: void set(java.lang.String,java.lang.String)>", "vulnArg": 0}

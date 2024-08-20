@@ -1,0 +1,1 @@
+{"package": ["com.mchange:c3p0:0.9.5.5"], "signature": "<com.mchange.v2.c3p0.C3P0Registry: com.mchange.v2.c3p0.ConnectionCustomizer getConnectionCustomizer(java.lang.String)>", "vulnArg": 0}

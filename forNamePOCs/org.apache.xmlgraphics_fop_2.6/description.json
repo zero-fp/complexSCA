@@ -1,0 +1,1 @@
+{"package": ["org.apache.xmlgraphics:fop:2.6"], "signature": "<org.apache.fop.render.RendererFactory: void addRendererMaker(java.lang.String)>", "vulnArg": 0}

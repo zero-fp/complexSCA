@@ -1,0 +1,1 @@
+{"package": ["org.apache.karaf.system:org.apache.karaf.system.core:3.0.8"], "signature": "<org.apache.karaf.system.internal.SystemServiceImpl: java.lang.String setSystemProperty(java.lang.String,java.lang.String,boolean)>", "vulnArg": 0}

@@ -1,0 +1,79 @@
+PACKAGE: com.cnautosoft.silver:SilverClient:1.0.1
+SUBSTITUTE VARS:
+${sys:logpath}/Silver/SilverLocalService-%d{yyyy-MM-dd}
+${sys:logpath}/Silver/SilverLocalService-error-%d{yyyy-MM-dd}
+
+PACKAGE: com.github.dzmipt:kdbStudio:dz2.0
+SUBSTITUTE VARS:
+${sys:user.home}/.studioforkdb${sys:log4j.studio.envSuffix:-}
+
+PACKAGE: com.hpe.adm.octane.ciplugins:integrations-sdk:2.7.2.1
+SUBSTITUTE VARS:
+${sys:octaneAllowedStorage:-}
+
+PACKAGE: com.sap.research.security.vulas:shared:3.1.15
+SUBSTITUTE VARS:
+${sys:vulas.log4j.threshold:-INFO}
+
+PACKAGE: de.simpleworks.staf:msteams-maven-plugin:0.50
+SUBSTITUTE VARS:
+${sys:logLevelFile}
+${sys:logLevelConsole}
+
+PACKAGE: de.simpleworks.staf:stafutils-maven-plugin:0.50
+SUBSTITUTE VARS:
+${sys:logLevelFile}
+${sys:logLevelConsole}
+
+PACKAGE: de.simpleworks.staf:surefire-maven-plugin:0.50
+SUBSTITUTE VARS:
+${sys:logLevelFile}
+${sys:logLevelConsole}
+
+PACKAGE: de.simpleworks.staf:testflo-maven-plugin:0.50
+SUBSTITUTE VARS:
+${sys:logLevelFile}
+${sys:logLevelConsole}
+
+PACKAGE: de.simpleworks.staf:xray-maven-plugin:0.50
+SUBSTITUTE VARS:
+${sys:logLevelFile}
+${sys:logLevelConsole}
+
+PACKAGE: io.cloudslang.lang:cloudslang-cli:2.0.13
+SUBSTITUTE VARS:
+${sys:app.home}
+
+PACKAGE: io.cloudslang.lang:cloudslang-content-verifier:2.0.13
+SUBSTITUTE VARS:
+${sys:app.home}
+
+PACKAGE: org.codelibs.fess:fess:13.15.2
+SUBSTITUTE VARS:
+${sys:fess.log.name:-fess}
+${sys:fess.log.level:-debug}
+${sys:fess.log.level:-info}
+${sys:fess.log.path:-target/logs}
+
+PACKAGE: org.eclipse.steady:shared:3.2.0
+SUBSTITUTE VARS:
+${sys:vulas.log4j.threshold:-INFO}
+
+PACKAGE: org.springframework.boot:spring-boot:2.2.13.RELEASE
+SUBSTITUTE VARS:
+${sys:LOG_DATEFORMAT_PATTERN}}}{faint} %clr{${sys:LOG_LEVEL_PATTERN}} %clr{%pid}{magenta} %clr{---}{faint} %clr{[%15.15t]}{faint} %clr{%-40.40c{1.}}{cyan} %clr{:}{faint} %m%n${sys:LOG_EXCEPTION_CONVERSION_WORD}
+${sys:LOG_DATEFORMAT_PATTERN}} ${sys:LOG_LEVEL_PATTERN} %pid --- [%t] %-40.40c{1.} : %m%n${sys:LOG_EXCEPTION_CONVERSION_WORD}
+${sys:CONSOLE_LOG_PATTERN}
+${sys:LOG_FILE}" filePattern="${sys:LOG_PATH}/$${date:yyyy-MM}/app-%d{yyyy-MM-dd-HH}
+${sys:FILE_LOG_PATTERN}
+${sys:LOG_DATEFORMAT_PATTERN}}}{faint} %clr{${sys:LOG_LEVEL_PATTERN}} %clr{%pid}{magenta} %clr{---}{faint} %clr{[%15.15t]}{faint} %clr{%-40.40c{1.}}{cyan} %clr{:}{faint} %m%n${sys:LOG_EXCEPTION_CONVERSION_WORD}
+${LOG_DATEFORMAT_PATTERN}} ${LOG_LEVEL_PATTERN} %pid --- [%t] %-40.40c{1.} : %m%n${sys:LOG_EXCEPTION_CONVERSION_WORD}
+${sys:CONSOLE_LOG_PATTERN}
+
+PACKAGE: org.touchbit.buggy:buggy-core:0.3.7-beta
+SUBSTITUTE VARS:
+${sys:log.directory}
+
+PACKAGE: org.web3j:web3j-evm:4.5.18
+SUBSTITUTE VARS:
+${sys:root.log.level}
